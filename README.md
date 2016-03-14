@@ -15,3 +15,5 @@ Everyone should be able to answer the first two questions, but the third one may
 [Dataset](http://www.bjs.gov/index.cfm?ty=dcdetail&iid=251)
 
 [Google Doc](https://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fa%2Fbrown.edu%2Fdocument%2Fd%2F1YvS65TMgg1zo8SPbgBpG0cjHRxWPDzj_cXEe0hxpEzs%2Fedit%3Fusp%3Dsharing&h=1AQHf2CEM)
+
+[Anaconda](https://www.continuum.io/downloads)
